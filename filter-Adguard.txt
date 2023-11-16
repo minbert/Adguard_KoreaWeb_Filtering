@@ -1,0 +1,5 @@
+[AdGuard]
+
+!#if adguard
+!#include community.txt
+!#endif
