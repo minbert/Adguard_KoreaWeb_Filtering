@@ -7,7 +7,7 @@
 ||cafe.daum.net^
 ||ruliweb.com^
 ||bobaedream.co.kr^
-||fmkorea.com^
+# ||fmkorea.com^
 ||mlbpark.donga.com^
 ||todayhumor.co.kr^
 ||orbi.kr^
