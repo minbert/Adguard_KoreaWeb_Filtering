@@ -3,11 +3,11 @@
 ||dcinside.com^
 # ||cafe.naver.com^
 ||dogdrip.net^
-# ||ppomppu.co.kr^
+||ppomppu.co.kr^
 ||cafe.daum.net^
 ||ruliweb.com^
 ||bobaedream.co.kr^
-# ||fmkorea.com^
+||fmkorea.com^
 ||mlbpark.donga.com^
 ||todayhumor.co.kr^
 ||orbi.kr^
@@ -131,4 +131,4 @@
 ||beegall.com^
 ||hackerschool.org^
 ||redtea.kr^
-# ||arca.live^
+||arca.live^
