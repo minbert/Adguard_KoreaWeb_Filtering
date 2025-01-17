@@ -3,7 +3,7 @@
 ||dcinside.com^
 # ||cafe.naver.com^
 ||dogdrip.net^
-# ||ppomppu.co.kr^
+||ppomppu.co.kr^
 ||cafe.daum.net^
 ||ruliweb.com^
 ||bobaedream.co.kr^
