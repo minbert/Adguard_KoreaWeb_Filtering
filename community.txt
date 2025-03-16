@@ -1,6 +1,6 @@
 # ||example.org^
 
-# ||dcinside.com^
+||dcinside.com^
 # ||cafe.naver.com^
 ||dogdrip.net^
 ||ppomppu.co.kr^
