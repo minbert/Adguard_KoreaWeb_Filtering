@@ -1,13 +1,13 @@
 # ||example.org^
 
 ||dcinside.com^
-# ||cafe.naver.com^
+||cafe.naver.com^
 ||dogdrip.net^
 ||ppomppu.co.kr^
-# ||cafe.daum.net^
+||cafe.daum.net^
 ||ruliweb.com^
 ||bobaedream.co.kr^
-# ||fmkorea.com^
+||fmkorea.com^
 ||mlbpark.donga.com^
 ||todayhumor.co.kr^
 ||orbi.kr^
